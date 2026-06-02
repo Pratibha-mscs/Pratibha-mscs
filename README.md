@@ -122,20 +122,8 @@ Currently focused on building scalable AI systems, analytics platforms, and data
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
-
-# Current Focus
-
-🔹 Building AI-powered applications
-
-🔹 Exploring LLMs, RAG, and Agentic Workflows
-
-🔹 Machine Learning for Forecasting & Risk Analytics
-
-🔹 Large-Scale Data Engineering & Analytics
-
-🔹 Applied Research in AI & Data Science
-
 ---
+
 
 # 🤝 Let's Connect
 
