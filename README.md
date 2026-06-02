@@ -139,22 +139,23 @@ Full-stack chess application with backend game engine, move validation, and scal
 
 ---
 
-# 📊 GitHub Analytics
+# Current Focus
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pratibha-mscs&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratibha-mscs&layout=compact&theme=tokyonight"/>
-</p>
+🔹 Building AI-powered applications
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratibha-mscs&theme=tokyonight"/>
-</p>
+🔹 Exploring LLMs, RAG, and Agentic Workflows
+
+🔹 Machine Learning for Forecasting & Risk Analytics
+
+🔹 Large-Scale Data Engineering & Analytics
+
+🔹 Applied Research in AI & Data Science
 
 ---
 
 # 🤝 Let's Connect
 
-📧 pratibha.g1702@gmail.com
+📧 g.pratibha.ds@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/pratibhagirids/
 
