@@ -25,13 +25,21 @@ I'm a Data Science graduate student at Rochester Institute of Technology passion
 
 My interests include:
 
-- Machine Learning & Predictive Analytics
-- LLMs, RAG & Agentic AI
-- Data Engineering & Distributed Systems
-- Fraud Detection & Risk Analytics
-- NLP & Knowledge Graphs
-- Applied AI Research
+🔹 Machine Learning & Predictive Modeling
 
+🔹 Data Science & Statistical Analysis
+
+🔹 LLMs, RAG & Agentic AI
+
+🔹 NLP & Knowledge Graphs
+
+🔹 Data Engineering & ETL Pipelines
+
+🔹 Fraud Detection & Risk Analytics
+
+🔹 Time Series Forecasting
+
+🔹 Cloud-Based Analytics Platforms
 Currently focused on building scalable AI systems, analytics platforms, and data-driven applications.
 
 ---
