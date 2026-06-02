@@ -21,28 +21,9 @@
 
 ## 🚀 About Me
 
-I'm a Data Science graduate student at Rochester Institute of Technology passionate about building intelligent systems that transform data into actionable insights.
+I'm Pratibha Giri, a Data Science graduate student at Rochester Institute of Technology with experience building machine learning models, analytics platforms, and AI-powered applications. I enjoy using data to solve real-world problems and drive data-informed decision making.
 
-My interests include:
-
-🔹 Machine Learning & Predictive Modeling
-
-🔹 Data Science & Statistical Analysis
-
-🔹 LLMs, RAG & Agentic AI
-
-🔹 NLP & Knowledge Graphs
-
-🔹 Data Engineering & ETL Pipelines
-
-🔹 Fraud Detection & Risk Analytics
-
-🔹 Time Series Forecasting
-
-🔹 Cloud-Based Analytics Platforms
-Currently focused on building scalable AI systems, analytics platforms, and data-driven applications.
-
----
+My interests include machine learning, predictive analytics, NLP, LLMs, data engineering, and cloud-based AI systems. I'm particularly passionate about transforming complex datasets into actionable insights and scalable intelligent solutions.---
 
 ## 🛠️ Tech Stack
 
