@@ -20,7 +20,6 @@
 ---
 
 ## 🚀 About Me
-Hi,
 
 Hi, I'm Pratibha 👋
 
