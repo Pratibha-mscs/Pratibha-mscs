@@ -2,7 +2,9 @@
 
 # Hi 👋, I'm Pratibha Giri
 
-### Data Scientist | ML Engineer | Data Engineer
+### Data Scientist
+
+Machine Learning • AI • Analytics
 
 🎓 MS Data Science @ Rochester Institute of Technology (GPA: 3.8)
 
