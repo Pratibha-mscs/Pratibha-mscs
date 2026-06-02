@@ -10,7 +10,7 @@
 
 🔬 Research Assistant @ RIT
 
-📍 Rochester, New York
+📍 Mountain View, California
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratibha_Giri-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratibhagirids/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pratibha--mscs-black?style=for-the-badge&logo=github)](https://github.com/Pratibha-mscs)
