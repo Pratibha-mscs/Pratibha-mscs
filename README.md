@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Pratibha Giri
 
-### Data Scientist
+### Software Engineer
 
-Machine Learning • AI • Analytics
+Backend •cMachine Learning • AI • Analytics
 
 🎓 MS Data Science @ Rochester Institute of Technology (GPA: 3.8)
 
@@ -27,7 +27,7 @@ Hi, I'm Pratibha 👋
 
 I'm a Data Science graduate student at Rochester Institute of Technology who loves turning messy data into meaningful insights and intelligent solutions. Whether it's building machine learning models, developing AI-powered applications, or uncovering patterns hidden in large datasets, I enjoy solving problems that have real-world impact.
 
-I'm particularly interested in machine learning, predictive analytics, NLP, LLMs, and data engineering. When I'm not working on projects, you'll usually find me exploring new AI technologies, searching for the best ice cream spot in town, following sports, or brainstorming the next project idea that starts with a simple "what if?"
+I'm particularly interested in Backend engineering, machine learning, predictive analytics, NLP, LLMs, and data engineering. When I'm not working on projects, you'll usually find me exploring new AI technologies, searching for the best ice cream spot in town, following sports, or brainstorming the next project idea that starts with a simple "what if?"
 
 ---
 
